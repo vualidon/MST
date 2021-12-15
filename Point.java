@@ -1,3 +1,4 @@
+// implement Comparable to order through weight increasing
 public class Point implements Comparable<Point> {
     int weight, vertex;
     public Point(int weight, int vertex){
